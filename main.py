@@ -15,5 +15,8 @@ def random_string(random_string):
 def get_mode():
     return os.getenv('MODE')
 
+
+# WHAT UP
+
 if __name__ == '__main__':
     app.run(port=5000)
